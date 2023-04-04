@@ -17,7 +17,7 @@
 -   [언제 참조형을 쓰고, 언제 기본형을 쓰실 건가요?](https://j-tech.tistory.com/11)
 -   [잘 된 캡슐화란 무엇일까요?](https://j-tech.tistory.com/12)
 -   [== 와 equals()의 차이는 무엇인가요?](https://j-tech.tistory.com/13)
--   String = “”와 new String(“”)의 차이는 무엇일까요?
+-   [String = “”와 new String(“”)의 차이는 무엇일까요?](https://j-tech.tistory.com/16)
 -   [hashcode()와 equals()는 어떤 특징을 가지고 있을까요?](https://j-tech.tistory.com/14)
 -   [equals와 hashCode는 왜 같이 재정의해야 할까요?](https://j-tech.tistory.com/15)
 -   해시 코드를 무조건 1만 리턴하도록 재정의 해봅시다. 모든 값이 잘 저장되나요? 아니면 덮어쓰기 될까요?
